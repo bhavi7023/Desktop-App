@@ -9,9 +9,8 @@ Windows Desktop App for form submissions using Visual Basic
 
 1. **Clone the repository:**
 
-   ```sh
    git clone https://github.com/bhavi7023/Desktop-App
-   Open the project:
+   
 2.Open Visual Studio.
   Click on File > Open > Project/Solution.
   Navigate to the project directory and select the .sln file.
